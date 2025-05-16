@@ -11,6 +11,7 @@ slow & requires high manual labor on low skill, autonomize-able tasks not optimi
 
 **⚙️Semi-Automated Workflow For Influencer Cold Outbound**
 | Step | Tool | Manual or Automated? |
+| ------------- | ------------- | ------------- |
 | 1. Find influencers by content & stats | !(influencer_sourcing.py) | ✅ Automated |
 | 2. Add data to central spreadsheet | CSV import. Need Google Sheets + Drive API access to automate (influencers.csv)
  | ✅ Semi-automated |
