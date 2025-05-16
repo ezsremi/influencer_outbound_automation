@@ -50,6 +50,7 @@ Get a **YouTube Data API v3 key** and add it where noted in file
      Creator references (game-specific)
      Offered CPM
 * You will need to obtain a Gmail App password to use this method
+
 **Future upgrades:**
 * Move emails to separate text file and add more email templates, use jinja to render emails
 * Create more switches; e.g. separate “Fortnite case1” vs “Fortnite case2”,
